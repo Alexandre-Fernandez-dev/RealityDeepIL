@@ -1167,9 +1167,6 @@
     <ownedComment xmi:id="_PyNrEIPUEeaJipYuvNFIRQ">
       <body>&lt;p>&lt;span style=&quot;font-size:8pt;&quot;>&quot;Cours&quot; contient la page html du cours et les supports pédagogiques (vidéos, images, pdf...)&lt;/span>&lt;/p></body>
     </ownedComment>
-    <packageImport xmi:id="_MuWAhYPLEeaJipYuvNFIRQ">
-      <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
-    </packageImport>
     <packageImport xmi:id="_GSeV4IVjEeaYZ45tryaPlg">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
     </packageImport>
@@ -2285,6 +2282,9 @@
         <ownedParameter xmi:id="_7YjeYIrmEeaiP7f23Ji18w" name="description">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
+        <ownedParameter xmi:id="_BQQQoI8QEeanEMm3YoQGMg" name="supprimer">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
         <ownedParameter xmi:id="_4lObIIrmEeaiP7f23Ji18w" name="Parameter1" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
         </ownedParameter>
@@ -2310,6 +2310,9 @@
         </ownedParameter>
         <ownedParameter xmi:id="_BxmuUIrrEeaiP7f23Ji18w" name="description">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_K3J5cI8QEeanEMm3YoQGMg" name="Supprimer">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
         </ownedParameter>
         <ownedParameter xmi:id="_GvxRcIrrEeaiP7f23Ji18w" name="Parameter1" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
@@ -2339,6 +2342,9 @@
         </ownedParameter>
         <ownedParameter xmi:id="_fJvm0IsIEeaMe-S8Yk1erQ" name="type">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_QY_xYI8QEeanEMm3YoQGMg" name="Supprimer">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
         </ownedParameter>
         <ownedParameter xmi:id="_jYPRQIrsEeaiP7f23Ji18w" name="Parameter1" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
@@ -2611,6 +2617,11 @@
             <language></language>
             <body>&quot;Ingenierie logicielle&quot;</body>
           </argument>
+          <argument xmi:type="uml:OpaqueExpression" xmi:id="_OMIbwI8REeanEMm3YoQGMg">
+            <eAnnotations xmi:id="_OMJC0I8REeanEMm3YoQGMg" source="Parameter" references="_BQQQoI8QEeanEMm3YoQGMg"/>
+            <language></language>
+            <body>false</body>
+          </argument>
         </message>
         <message xmi:id="_bgkyoIsGEeaDQcQR0MG3cw" name="validerFormulaireUE" messageSort="reply" receiveEvent="_bglZsIsGEeaDQcQR0MG3cw" sendEvent="_bgkLkIsGEeaDQcQR0MG3cw" connector="_RI83gIsGEeaDQcQR0MG3cw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_o4qOEIsGEeaDQcQR0MG3cw">
@@ -2726,7 +2737,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_pRyqUIsHEeaMe-S8Yk1erQ" type="MessageNameLabel">
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_pRyqUosHEeaMe-S8Yk1erQ" type="Stereotype"/>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_pRyqU4sHEeaMe-S8Yk1erQ" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pRyqUYsHEeaMe-S8Yk1erQ" y="-317"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pRyqUYsHEeaMe-S8Yk1erQ" y="-246"/>
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pRyDQYsHEeaMe-S8Yk1erQ" points="[0, 0, -298, 0]$[298, 0, 0, 0]"/>
               <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pR0fgIsHEeaMe-S8Yk1erQ" id="227:820"/>
@@ -2804,6 +2815,11 @@
             <eAnnotations xmi:id="_usOSsYsHEeaMe-S8Yk1erQ" source="Parameter" references="_BxmuUIrrEeaiP7f23Ji18w"/>
             <language></language>
             <body>&quot;Premier chapitre, introduction&quot;</body>
+          </argument>
+          <argument xmi:type="uml:OpaqueExpression" xmi:id="_0-ThYI8QEeanEMm3YoQGMg">
+            <eAnnotations xmi:id="_0-UIcI8QEeanEMm3YoQGMg" source="Parameter" references="_K3J5cI8QEeanEMm3YoQGMg"/>
+            <language></language>
+            <body>false</body>
           </argument>
         </message>
         <message xmi:id="_pRMNYIsHEeaMe-S8Yk1erQ" name="validerFormulaireChapitre" messageSort="reply" receiveEvent="_pRM0cIsHEeaMe-S8Yk1erQ" sendEvent="_pRLmUIsHEeaMe-S8Yk1erQ" connector="_Ymi1AYsHEeaMe-S8Yk1erQ">
@@ -2971,19 +2987,24 @@
             <body>&quot;Video d'introduction&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_m7j9UIsIEeaMe-S8Yk1erQ">
-            <eAnnotations xmi:id="_m7j9UYsIEeaMe-S8Yk1erQ" source="Parameter" references="_gnox4IrsEeaiP7f23Ji18w"/>
+            <eAnnotations xmi:id="_m7j9UYsIEeaMe-S8Yk1erQ" source="Parameter" references="_gnpY8IrsEeaiP7f23Ji18w"/>
             <language></language>
             <body>&quot;Video d'introduction partie 1&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_ovuCkIsIEeaMe-S8Yk1erQ">
-            <eAnnotations xmi:id="_ovuCkYsIEeaMe-S8Yk1erQ" source="Parameter" references="_gnpY8IrsEeaiP7f23Ji18w"/>
+            <eAnnotations xmi:id="_ovuCkYsIEeaMe-S8Yk1erQ" source="Parameter" references="_fJvm0IsIEeaMe-S8Yk1erQ"/>
             <language></language>
             <body>&quot;res/videointroILp1.mp4&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_s6PiQIsIEeaMe-S8Yk1erQ">
-            <eAnnotations xmi:id="_s6PiQYsIEeaMe-S8Yk1erQ" source="Parameter" references="_fJvm0IsIEeaMe-S8Yk1erQ"/>
+            <eAnnotations xmi:id="_s6PiQYsIEeaMe-S8Yk1erQ" source="Parameter" references="_QY_xYI8QEeanEMm3YoQGMg"/>
             <language></language>
             <body>&quot;Video&quot;</body>
+          </argument>
+          <argument xmi:type="uml:OpaqueExpression" xmi:id="_J7XKII8REeanEMm3YoQGMg">
+            <eAnnotations xmi:id="_J7XKIY8REeanEMm3YoQGMg" source="Parameter" references="_QY_xYI8QEeanEMm3YoQGMg"/>
+            <language></language>
+            <body>false</body>
           </argument>
         </message>
         <message xmi:id="_jdsIQYsIEeaMe-S8Yk1erQ" name="validerFormulaireSupport" messageSort="reply" receiveEvent="_jdsIQosIEeaMe-S8Yk1erQ" sendEvent="_jdsIQIsIEeaMe-S8Yk1erQ" connector="_ODwWQIsIEeaMe-S8Yk1erQ">
