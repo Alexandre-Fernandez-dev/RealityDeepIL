@@ -894,7 +894,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_hasgZYVjEeaYZ45tryaPlg" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_hasgZIVjEeaYZ45tryaPlg" y="1058"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hao2AYVjEeaYZ45tryaPlg" points="[244, 646, -12734, -3445]$[7877, 646, -5101, -3445]$[7877, 3475, -5101, -616]$[12498, 3475, -480, -616]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hao2AYVjEeaYZ45tryaPlg" points="[244, 910, -13276, -3287]$[6502, 910, -7018, -3287]$[6502, 3545, -7018, -652]$[13302, 3545, -218, -652]"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_jE5YYIVjEeaYZ45tryaPlg" element="_jDaxsIVjEeaYZ45tryaPlg" source="_GSYPQYVjEeaYZ45tryaPlg" target="_GSY2koVjEeaYZ45tryaPlg" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_jE5YYoVjEeaYZ45tryaPlg" type="NameLabel">
@@ -1094,7 +1094,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_egi2kIlMEeavG7HtJYs8KA" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_egiPhIlMEeavG7HtJYs8KA" y="1058"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_egcI4YlMEeavG7HtJYs8KA" points="[36, 3, -457, -19]$[515, 42, 22, 20]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_egcI4YlMEeavG7HtJYs8KA" points="[244, 645, -12970, -1572]$[6766, 645, -6448, -1572]$[6766, 2007, -6448, -210]$[11960, 2007, -1254, -210]"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_8UXKoJBdEeak1_2Gjxx3Bw" element="_8TY6QJBdEeak1_2Gjxx3Bw" source="_GSY2m4VjEeaYZ45tryaPlg" target="_GSY2coVjEeaYZ45tryaPlg" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_8UXKopBdEeak1_2Gjxx3Bw" type="NameLabel">
