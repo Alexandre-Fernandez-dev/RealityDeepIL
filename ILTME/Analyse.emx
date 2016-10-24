@@ -630,6 +630,86 @@
           </children>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mCSNIZnIEeafwqC3PHTASw" points="[1645, -1717, -7595, 4091]$[1645, -3041, -7595, 2767]$[9279, -3041, 39, 2767]$[9279, -4222, 39, 1586]"/>
         </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_slpFEJnLEeafwqC3PHTASw" element="_sjuZgJnLEeafwqC3PHTASw" source="_MF-4oIPOEeaJipYuvNFIRQ" target="_MF-4oIPOEeaJipYuvNFIRQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_slpsIJnLEeafwqC3PHTASw" type="NameLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_slpsIpnLEeafwqC3PHTASw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_slqTMJnLEeafwqC3PHTASw" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_slpsIZnLEeafwqC3PHTASw" y="-186"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slqTMZnLEeafwqC3PHTASw" type="ToMultiplicityLabel" element="_sk6sUJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_slqTM5nLEeafwqC3PHTASw" type="ToMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slqTMpnLEeafwqC3PHTASw" y="396"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slqTNJnLEeafwqC3PHTASw" type="ToRoleLabel" element="_sk6sUJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_slq6QJnLEeafwqC3PHTASw" type="ToRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slqTNZnLEeafwqC3PHTASw" y="-397"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slq6QZnLEeafwqC3PHTASw" type="FromMultiplicityLabel" element="_skSaMJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_slq6Q5nLEeafwqC3PHTASw" type="FromMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slq6QpnLEeafwqC3PHTASw" y="396"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slq6RJnLEeafwqC3PHTASw" type="FromRoleLabel" element="_skSaMJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_slrhUJnLEeafwqC3PHTASw" type="FromRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slq6RZnLEeafwqC3PHTASw" y="-397"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slrhUZnLEeafwqC3PHTASw" type="ToQualifierLabel" element="_sk6sUJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_slrhU5nLEeafwqC3PHTASw" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slrhUpnLEeafwqC3PHTASw" y="-186"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slrhVJnLEeafwqC3PHTASw" type="FromQualifierLabel" element="_skSaMJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_slsIYJnLEeafwqC3PHTASw" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slrhVZnLEeafwqC3PHTASw" y="-186"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slsIYZnLEeafwqC3PHTASw" type="ToConstraintLabel" element="_sk6sUJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:ListCompartment" xmi:id="_slsIY5nLEeafwqC3PHTASw" type="ToConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slsIYpnLEeafwqC3PHTASw" y="1058"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_slsIZJnLEeafwqC3PHTASw" type="FromConstraintLabel" element="_skSaMJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:ListCompartment" xmi:id="_slsIZpnLEeafwqC3PHTASw" type="FromConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_slsIZZnLEeafwqC3PHTASw" y="1058"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_slpFEZnLEeafwqC3PHTASw" points="[1916, -672, 1916, -672]$[4946, -672, 4946, -672]$[4946, 386, 4946, 386]$[1916, 386, 1916, 386]"/>
+        </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_u0ydMJnLEeafwqC3PHTASw" element="_uzcZYJnLEeafwqC3PHTASw" source="_TVmoYIPLEeaJipYuvNFIRQ" target="_MF-4oIPOEeaJipYuvNFIRQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_u0ydMpnLEeafwqC3PHTASw" type="NameLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0zEQJnLEeafwqC3PHTASw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0zEQZnLEeafwqC3PHTASw" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u0ydM5nLEeafwqC3PHTASw" y="-186"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u0zEQpnLEeafwqC3PHTASw" type="ToMultiplicityLabel" element="_u0rIcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0zERJnLEeafwqC3PHTASw" type="ToMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u0zEQ5nLEeafwqC3PHTASw" y="396"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u0zERZnLEeafwqC3PHTASw" type="ToRoleLabel" element="_u0rIcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0zrUJnLEeafwqC3PHTASw" type="ToRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u0zERpnLEeafwqC3PHTASw" y="-397"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u0zrUZnLEeafwqC3PHTASw" type="FromMultiplicityLabel" element="_u0EEcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0zrU5nLEeafwqC3PHTASw" type="FromMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u0zrUpnLEeafwqC3PHTASw" y="396"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u0zrVJnLEeafwqC3PHTASw" type="FromRoleLabel" element="_u0EEcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u00SYJnLEeafwqC3PHTASw" type="FromRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u0zrVZnLEeafwqC3PHTASw" y="-397"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u00SYZnLEeafwqC3PHTASw" type="ToQualifierLabel" element="_u0rIcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_u00SY5nLEeafwqC3PHTASw" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u00SYpnLEeafwqC3PHTASw" y="-186"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u00SZJnLEeafwqC3PHTASw" type="FromQualifierLabel" element="_u0EEcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_u00SZpnLEeafwqC3PHTASw" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u00SZZnLEeafwqC3PHTASw" y="-186"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u00SZ5nLEeafwqC3PHTASw" type="ToConstraintLabel" element="_u0rIcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:ListCompartment" xmi:id="_u005cZnLEeafwqC3PHTASw" type="ToConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u005cJnLEeafwqC3PHTASw" y="1058"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_u005cpnLEeafwqC3PHTASw" type="FromConstraintLabel" element="_u0EEcJnLEeafwqC3PHTASw">
+            <children xmi:type="notation:ListCompartment" xmi:id="_u005dJnLEeafwqC3PHTASw" type="FromConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u005c5nLEeafwqC3PHTASw" y="1058"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_u0ydMZnLEeafwqC3PHTASw" points="[-1330, -1717, -16194, 4091]$[-1330, -13227, -16194, -7419]$[14903, -13227, 39, -7419]$[14903, -7393, 39, -1585]"/>
+        </edges>
       </contents>
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_GSYPQIVjEeaYZ45tryaPlg" type="Usecase" name="Use case diagram">
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_GSYPQYVjEeaYZ45tryaPlg" element="_GSe88IVjEeaYZ45tryaPlg" fontName="Cantarell" fontHeight="8" showListStereotype="Text" showListVisibility="Text" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Text">
@@ -2323,6 +2403,10 @@
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_obY1sIPTEeaJipYuvNFIRQ" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_obYOoYPTEeaJipYuvNFIRQ" value="1"/>
       </ownedAttribute>
+      <ownedAttribute xmi:id="_u0EEcJnLEeafwqC3PHTASw" name="commentaire" visibility="private" type="_MF8cYIPOEeaJipYuvNFIRQ" association="_uzcZYJnLEeafwqC3PHTASw">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_u0FSkJnLEeafwqC3PHTASw" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_u0ErgJnLEeafwqC3PHTASw" value="1"/>
+      </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_69mGQIPLEeaJipYuvNFIRQ" name="Chapitre">
       <ownedAttribute xmi:id="_L7ZEIIPMEeaJipYuvNFIRQ" name="Titre" visibility="private"/>
@@ -2448,6 +2532,18 @@
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_mCJDMZnIEeafwqC3PHTASw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_mCJDMJnIEeafwqC3PHTASw" value="1"/>
       </ownedAttribute>
+      <ownedAttribute xmi:id="_skSaMJnLEeafwqC3PHTASw" name="commentaire" visibility="private" type="_MF8cYIPOEeaJipYuvNFIRQ" association="_sjuZgJnLEeafwqC3PHTASw">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_skToUJnLEeafwqC3PHTASw" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_skTBQJnLEeafwqC3PHTASw" value="1"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_sk6sUJnLEeafwqC3PHTASw" name="commentaire2" visibility="private" type="_MF8cYIPOEeaJipYuvNFIRQ" association="_sjuZgJnLEeafwqC3PHTASw">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_sk76cZnLEeafwqC3PHTASw" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_sk76cJnLEeafwqC3PHTASw" value="1"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_u0rIcJnLEeafwqC3PHTASw" name="uE" visibility="private" type="_TVjlEIPLEeaJipYuvNFIRQ" association="_uzcZYJnLEeafwqC3PHTASw">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_u0rvgZnLEeafwqC3PHTASw" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_u0rvgJnLEeafwqC3PHTASw" value="1"/>
+      </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_UhRC4IPOEeaJipYuvNFIRQ" name="Enseignant">
       <ownedComment xmi:id="_ejkt8IPREeaJipYuvNFIRQ"/>
@@ -2514,7 +2610,7 @@
       </ownedUseCase>
       <ownedUseCase xmi:id="_GSfkB4VjEeaYZ45tryaPlg" name="Répondre au QCM" subject="_GSfkAoVjEeaYZ45tryaPlg">
         <ownedComment xmi:id="_EaEN8I7TEeatMfAkUO82KQ" annotatedElement="_GSfkB4VjEeaYZ45tryaPlg">
-          <body>&lt;p>Nom : Répondre au QCM&lt;/p>&lt;p>Date de création : 03/10/2016&lt;/p>&lt;p>Date de mise à jour : 09/10/2016&lt;/p>&lt;p>Responsable : Reality Deep&lt;/p>&lt;p>Version 1.1&lt;/p>&lt;p>Description : Un étudiant veut répondre à un QCM&lt;/p>&lt;p>Acteur : Etudiant&lt;/p>&lt;p>&lt;/p>&lt;p>Préconditions : Etre un étudiant désirant améliorer ses connaissances.&lt;/p>&lt;p>&lt;/p>&lt;p>Séquencement nominal&lt;/p>&lt;p>1. L'étudiant ouvre la page de questionnaire&lt;/p>&lt;p>2. L'étudiant choisit une UE, au moins un chapitre et un nombre de questions (entre 1 et 20)&lt;/p>&lt;p>3. Le système sélectionne aléatoirement un nombre de questions correspondant à l’UE et aux chapitres spécifiés égal au nombre de questions demandé par l’étudiant sans doublon.&lt;/p>&lt;p>4. Le système affiche une question&lt;/p>&lt;p>5. L’étudiant sélectionne les réponses qu’il estime valides&lt;/p>&lt;p>6. Le système compare les réponses de l’étudiant aux réponses enregistrées, affiche un état coché pour chaque bonne réponse et le corrigé et calcule les points rapportés par la question&lt;/p>&lt;p>7. L’étudiant choisit de passer à la question suivante&lt;/p>&lt;p>8. Le système affiche le score total de l’étudiant au questionnaire&lt;/p>&lt;p>&lt;/p>&lt;p>Enchainements alternatifs&lt;/p>&lt;p>A1. Aucune question n’est enregistrée pour aucun des chapitres choisis par l’étudiant&lt;/p>&lt;p>L'enchaînement démarre après le point 2 de la séquence nominale&lt;/p>&lt;p>3. Le système affiche un message d’erreur « Aucune question n’existe dans votre sélection de chapitres »&lt;/p>&lt;p>La séquence nominale reprend au point 2&lt;/p>&lt;p>&lt;/p>&lt;p>A2. L’étudiant ne choisit pas un nombre de questions qui est un nombre compris entre 1 et 20&lt;/p>&lt;p>L'enchaînement démarre après le point 2 de la séquence nominale&lt;/p>&lt;p>3. Le système affiche un message d’erreur « Argument invalide, merci de choisir un nombre de questions compris entre 1 et 20 »&lt;/p>&lt;p>La séquence nominale reprend au point 2&lt;/p>&lt;p>&lt;/p>&lt;p>A3. Le nombre de questions disponibles pour la sélection de l’étudiant est inférieur au nombre de questions choisi par l’étudiant&lt;/p>&lt;p>L'enchaînement démarre après le point 2 de la séquence nominale&lt;/p>&lt;p>3. Le système informe l’étudiant qu’il n’existe pas suffisamment de questions dans sa sélection et lui propose d’entrer un nouveau nombre de questions ou d’accepter un nombre de questions correspondant au nombre de questions enregistrées sur le système correspondant à sa sélection&lt;/p>&lt;p>4. L’étudiant accepte le nombre de questions maximal&lt;/p>&lt;p>La séquence nominale reprend au point 3 avec un nombre de questions correspondant au nombre de questions enregistrées concernant la sélection de chapitres choisie&lt;/p>&lt;p>&lt;/p>&lt;p>A4. L’étudiant choisit de modifier son nombre de questions&lt;/p>&lt;p>L'enchaînement démarre après le point 3 de la séquence alternative A3&lt;/p>&lt;p>La séquence nominale reprend au point 2&lt;/p>&lt;p>&lt;/p>&lt;p>A5. Il reste encore des questions non traitées dans le questionnaire&lt;/p>&lt;p>L’enchaînement démarre après le point 7 de la séquence nominale&lt;/p>&lt;p>La séquence nominale reprend au point 4&lt;/p>&lt;p>&lt;/p>&lt;p>Enchainements d'exceptions&lt;/p>&lt;p>E1. L’étudiant décide d’arrêter le questionnaire&lt;/p>&lt;p>L’enchaînement démarre après les points 1, 4 ou 6 du scénario nominal ou après le point 3 du scénario alternatif A3&lt;/p>&lt;p>Le système ferme la page de questionnaire en cours et renvoie l’étudiant à l’écran d’accueil&lt;/p>&lt;p>&lt;/p>&lt;p>E2. Il n’existe aucune UE ou aucun chapitre dans le système&lt;/p>&lt;p>L’enchaînement démarre après le point 1 de la séquence nominale&lt;/p>&lt;p>2. Le système affiche un message d’erreur « Aucune UE ou aucun chapitre n’est enregistré dans le système »&lt;/p>&lt;p>Le système ferme la page de questionnaire et renvoie l’étudiant à l’écran d’accueil&lt;/p>&lt;p>&lt;/p>&lt;p>Post-conditions&lt;/p>&lt;p>Le système affiche&lt;/p>&lt;p>- le score total de l’étudiant au questionnaire&lt;/p>&lt;p>- la liste de toutes les questions traitées&lt;/p>&lt;p>- les réponses de l’élève à chaque question en indiquant les réponses correctes et celles incorrectes&lt;/p>&lt;p>- le corrigé de chaque question&lt;/p></body>
+          <body>&lt;p>Nom : Répondre au QCM&lt;/p>&lt;p>Date de création : 03/10/2016&lt;/p>&lt;p>Date de mise à jour : 09/10/2016&lt;/p>&lt;p>Responsable : Reality Deep&lt;/p>&lt;p>Version 1.1&lt;/p>&lt;p>Description : Un étudiant veut répondre à un QCM&lt;/p>&lt;p>Acteur : Etudiant&lt;/p>&lt;p>&lt;/p>&lt;p>Préconditions : Etre un étudiant désirant améliorer ses connaissances.&lt;/p>&lt;p>&lt;/p>&lt;p>Séquencement nominal&lt;/p>&lt;p>1. L'étudiant ouvre la page de questionnaire&lt;/p>&lt;p>2. L'étudiant choisit une UE, au moins un chapitre et un nombre de questions (entre 1 et 20)&lt;/p>&lt;p>3. Le système sélectionne aléatoirement un nombre de questions correspondant à l’UE et aux chapitres spécifiés égal au nombre de questions demandé par l’étudiant sans doublon.&lt;/p>&lt;p>4. Le système affiche une question&lt;/p>&lt;p>5. L’étudiant sélectionne les réponses qu’il estime valides&lt;/p>&lt;p>6. Le système compare les réponses de l’étudiant aux réponses enregistrées et calcule les points rapportés par la question&lt;/p>&lt;p>7. Le système affiche un état coché pour chaque bonne réponse et le corrigé &lt;/p>&lt;p>8. L’étudiant valide&lt;/p>&lt;p>9. Le système affiche le score total de l’étudiant au questionnaire&lt;/p>&lt;p>&lt;/p>&lt;p>Enchainements alternatifs&lt;/p>&lt;p>A1. Aucune question n’est enregistrée pour aucun des chapitres choisis par l’étudiant&lt;/p>&lt;p>L'enchaînement démarre après le point 2 de la séquence nominale&lt;/p>&lt;p>3. Le système affiche un message d’erreur « Aucune question n’existe dans votre sélection de chapitres »&lt;/p>&lt;p>La séquence nominale reprend au point 2&lt;/p>&lt;p>&lt;/p>&lt;p>A2. L’étudiant ne choisit pas un nombre de questions qui est un nombre compris entre 1 et 20&lt;/p>&lt;p>L'enchaînement démarre après le point 2 de la séquence nominale&lt;/p>&lt;p>3. Le système affiche un message d’erreur « Argument invalide, merci de choisir un nombre de questions compris entre 1 et 20 »&lt;/p>&lt;p>La séquence nominale reprend au point 2&lt;/p>&lt;p>&lt;/p>&lt;p>A3. Le nombre de questions disponibles pour la sélection de l’étudiant est inférieur au nombre de questions choisi par l’étudiant&lt;/p>&lt;p>L'enchaînement démarre après le point 2 de la séquence nominale&lt;/p>&lt;p>3. Le système informe l’étudiant qu’il n’existe pas suffisamment de questions dans sa sélection &lt;/p>&lt;p>La séquence nominale reprend au point 2&lt;/p>&lt;p>&lt;/p>&lt;p>A4. Il reste encore des questions non traitées dans le questionnaire&lt;/p>&lt;p>L’enchaînement démarre après le point 8 de la séquence nominale&lt;/p>&lt;p>La séquence nominale reprend au point 4&lt;/p>&lt;p>&lt;/p>&lt;p>Enchainements d'exceptions&lt;/p>&lt;p>E1. L’étudiant décide d’arrêter le questionnaire&lt;/p>&lt;p>L’enchaînement démarre après les points 1, 4 ou 7 du scénario nominal ou après le point 3 &lt;/p>&lt;p>Le système ferme la page de questionnaire en cours et renvoie l’étudiant à l’écran d’accueil&lt;/p>&lt;p>&lt;/p>&lt;p>E2. Il n’existe aucune UE ou aucun chapitre dans le système&lt;/p>&lt;p>L’enchaînement démarre après le point 1 de la séquence nominale&lt;/p>&lt;p>2. Le système affiche un message d’erreur « Aucune UE ou aucun chapitre n’est enregistré dans le système »&lt;/p>&lt;p>Le système ferme la page de questionnaire et renvoie l’étudiant à l’écran d’accueil&lt;/p>&lt;p>&lt;/p>&lt;p>Post-conditions&lt;/p>&lt;p>Le système affiche&lt;/p>&lt;p>- le score total de l’étudiant au questionnaire&lt;/p>&lt;p>- la liste de toutes les questions traitées&lt;/p>&lt;p>- les réponses de l’élève à chaque question en indiquant les réponses correctes et celles incorrectes&lt;/p>&lt;p>- le corrigé de chaque question&lt;/p></body>
         </ownedComment>
       </ownedUseCase>
       <ownedUseCase xmi:id="_GSfkCIVjEeaYZ45tryaPlg" name="Ajouter un commentaire" subject="_GSfkAoVjEeaYZ45tryaPlg">
@@ -6478,6 +6574,8 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_eyatIJnIEeafwqC3PHTASw" memberEnd="_ey-t0JnIEeafwqC3PHTASw _ezlx0JnIEeafwqC3PHTASw"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_mA9-gJnIEeafwqC3PHTASw" memberEnd="_mBgxEJnIEeafwqC3PHTASw _mCH1EJnIEeafwqC3PHTASw"/>
+    <packagedElement xmi:type="uml:Association" xmi:id="_sjuZgJnLEeafwqC3PHTASw" memberEnd="_skSaMJnLEeafwqC3PHTASw _sk6sUJnLEeafwqC3PHTASw"/>
+    <packagedElement xmi:type="uml:Association" xmi:id="_uzcZYJnLEeafwqC3PHTASw" memberEnd="_u0EEcJnLEeafwqC3PHTASw _u0rIcJnLEeafwqC3PHTASw"/>
     <profileApplication xmi:id="_MuWAhoPLEeaJipYuvNFIRQ">
       <eAnnotations xmi:id="_MuWnkIPLEeaJipYuvNFIRQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
