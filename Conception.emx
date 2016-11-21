@@ -8208,7 +8208,14 @@
     <packagedElement xmi:type="uml:Usage" xmi:id="_Tb8PUKvrEeaCodFmMQjHRw" supplier="_ZRhfcKvnEeaCodFmMQjHRw" client="_DGx-wKvrEeaCodFmMQjHRw"/>
     <packagedElement xmi:type="uml:Interface" xmi:id="_bvMe8KvrEeaCodFmMQjHRw" name="IEnseignants">
       <ownedOperation xmi:id="__KKOsK_8EeaFG8s43PaXIg" name="isConnected"/>
-      <ownedOperation xmi:id="_AfUDwK_9EeaFG8s43PaXIg" name="verifierParametresConnexion"/>
+      <ownedOperation xmi:id="_AfUDwK_9EeaFG8s43PaXIg" name="verifierParametresConnexion">
+        <ownedParameter xmi:id="_gvAMcK__EeaFG8s43PaXIg" name="login">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_iUUkcK__EeaFG8s43PaXIg" name="mdp">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
     </packagedElement>
     <packagedElement xmi:type="uml:Usage" xmi:id="_vk6FIKvrEeaCodFmMQjHRw" supplier="_YXuwsKvnEeaCodFmMQjHRw" client="_DGx-wKvrEeaCodFmMQjHRw"/>
     <packagedElement xmi:type="uml:Component" xmi:id="_9R1IIKvrEeaCodFmMQjHRw" name="Commentaire" clientDependency="_--CyUKvrEeaCodFmMQjHRw _AqwLwKvsEeaCodFmMQjHRw _G7WAEKvsEeaCodFmMQjHRw _SB8hEKvsEeaCodFmMQjHRw">
